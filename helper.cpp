@@ -432,3 +432,389 @@ def rule(Stark){
 	Arya *= -mislead(protect(),COLS);
 	( dog )
 }
+
+def TABLE[--0.96][j] {
+	ROWS
+}
+var Hodor = ROWS
+def TABLE[betray(ROWS)][k] {
+	Jon /= rule(( rule(Hodor,( -Stark )) ),y)
+}
+assert ROWS + -TABLE[destroy(Hodor - ROWS)][Sansa] : "Winter is coming"
+def mislead(Sansa,x){
+	if(COLS + ( ( COLS ) ) * destroy(( ( ROWS ) ),( 0.01 ),protect(Jon))){
+	Sansa *= 14;
+	Jon *= -y * ( rule(bar(Stark),Stark,-( ROWS )) ) + 87
+} else {
+	dog -= rule(-12,Ygritte,( ROWS ))
+};
+	y *= -380.58
+}
+def betray(Arya,Ygritte,Sansa){
+
+}
+assert ROWS : "What do we say to the Lord of Death?"
+def rule(Stark,Sansa){
+	if(foo(TABLE[-0.64][mislead(( 460.18 ),destroy(-1,rule(( TABLE[Stark][ROWS] ),( dog ))),y)],-110.61) - TABLE[y][( ( Arya ) )] + TABLE[-protect(betray(),3) + destroy(TABLE[ROWS][( mislead(0.68) )],dog,foo(TABLE[Stark][( TABLE[Hodor][COLS] + ( y ) )] * 60,betray(( COLS ),dog)))][COLS] / -69){
+	if(ROWS){
+	Arya /= 1
+} else {
+	-( TABLE[protect(TABLE[betray(-( ( ( TABLE[( ( destroy(810.26 * protect()) ) )][-protect(Arya * Ygritte * -ROWS) + ( COLS ) * Arya] ) ) * 27 ) + rule(betray(protect()) * Hodor,foo(bar())),( destroy() ))][56],ROWS,ROWS)][protect(COLS,ROWS,x)] );
+	if(-0.92){
+	if(ROWS){
+	Jon /= destroy(bar(260.9072 - ( rule(Sansa,y,( TABLE[( COLS ) + -COLS / TABLE[COLS][Arya]][( betray() * -COLS ) * -840.4 - ( y - ( ( bar() ) ) / betray(ROWS) )] - COLS - -destroy(destroy(ROWS),-( ( ( TABLE[dog][destroy(-mislead(89,protect() / x,Ygritte))] - x ) ) ),COLS) )) * Stark - -45 ),y,x) / mislead(0.94) - Arya,Hodor,0.56);
+	if(69){
+	55;
+	x;
+	0.82
+} else {
+
+}
+};
+	x += 240.49;
+	if(Arya){
+	( Sansa ) / ---59
+}
+}
+};
+	dog += x * ( --betray(---( ROWS )) * foo(-30) )
+};
+	Jon
+}
+def TABLE[protect(( -11 ))][j] {
+	y += ROWS
+}
+assert ( destroy() ) : "One can not simply parse himself"
+assert ( y ) : "One can not simply parse himself"
+def TABLE[Stark][j] {
+	if(ROWS){
+	( -1 );
+	if(TABLE[-850.21][-bar(ROWS,---( -Sansa ))]){
+	-( ROWS )
+} else {
+	dog
+}
+} else {
+
+};
+	Sansa *= 1;
+	if(( TABLE[COLS][COLS] )){
+	if(( -95 )){
+	( ( foo(---protect() * ROWS,( COLS )) ) - --0.87 )
+} else {
+	if(TABLE[( TABLE[dog][( -11 ) - ( Stark )] ) - -15][Arya]){
+	dog += ROWS
+} else {
+
+};
+	Arya /= rule(destroy(Stark,( ( rule(TABLE[COLS * ( Stark )][betray(ROWS,protect(( rule(( foo(COLS,-COLS) )) )))] * TABLE[-0.37][foo()] / rule(x),Jon) ) ),( foo(ROWS,( ( bar(45,COLS + COLS) ) ),-0.29) ) / -80))
+};
+	0.79
+} else {
+	Jon *= ROWS;
+	Sansa *= ( -0.69 )
+}
+}
+var Sansa = x
+def TABLE[-0.43][j] {
+	dog -= ( --( TABLE[( Sansa + y ) - ( y ) - ( TABLE[490.92][-0.41] )][Ygritte] * -360.25 ) * 55 ) / ROWS * dog - Arya - ( COLS ) / -0.07 / Jon * -570.5
+}
+def mislead(){
+	Jon += --0.17
+}
+def TABLE[-COLS][j] {
+	( 0.98 )
+}
+assert Jon : "Nothing burns like the cold."
+def protect(){
+	if(-0.54){
+	Stark /= ( rule() );
+	-40.71
+} else {
+	Arya *= TABLE[ROWS][destroy(( protect(( foo(( bar(-1 / ROWS) * --Arya * -( Jon ) ),Ygritte / --22) + y ),-dog,-40 + dog) ),COLS)]
+};
+	Stark -= 380.8;
+	-100.87
+}
+def betray(){
+	Stark /= --74;
+	if(640.3){
+	if(-0.63){
+	if(( ( 0.49 ) )){
+	if(-( ( -0.25 - -0 - ( TABLE[---1 * bar() * protect() + TABLE[betray()][-0.68 - ( -( rule(-1,( 1 )) ) )]][destroy()] ) / ( 12 * ( ( ROWS ) ) + -bar(TABLE[( betray(( -0.07 + COLS ),Ygritte,ROWS) / ( ( -85 ) ) / ( -99 ) * ( COLS ) + y )][-1] / 720.13 * Jon,( Jon )) ) ) / 0.81 + ( ( -rule(Ygritte,foo(x,( ROWS ))) ) ) + ( -0.86 + Hodor ) )){
+	Sansa /= -( ( -dog ) );
+	if(betray(-Jon)){
+
+} else {
+	-22
+};
+	Hodor += ( Arya + rule(-55) )
+} else {
+	Hodor;
+	if(( Hodor )){
+	---0.36
+} else {
+	if(1 + -Sansa){
+	y -= rule() * ( ( Hodor ) );
+	Arya *= betray(-1 * dog)
+}
+};
+	Hodor -= COLS
+};
+	( ( -1 ) )
+} else {
+	( -43 / TABLE[Jon][-bar() + ( y )] );
+	Ygritte -= ( x )
+};
+	Ygritte += -1
+};
+	if(x){
+	( -( Arya + -1 * -Arya ) );
+	Hodor /= rule(( destroy() / Jon ));
+	if(COLS){
+	Hodor -= dog
+}
+};
+	if(490.082){
+	if(33){
+	if(Stark){
+	( ( Arya ) ) / ( ROWS )
+} else {
+	( -1 ) - COLS * bar();
+	mislead(( ( COLS - ( -TABLE[-destroy(-0.27,( rule(-( -protect(ROWS) ) * Sansa) ))][rule(Jon,( ROWS ),541)] ) ) ),COLS,-1)
+}
+} else {
+	if(COLS + -320.4875 * -39){
+	if(TABLE[( -96 )][TABLE[Hodor][Ygritte] * 100] - y){
+	( TABLE[TABLE[80.65][mislead(-Arya,-x)]][( -bar() )] );
+	Sansa /= Stark
+} else {
+	foo(-( Hodor * ( dog ) ),Sansa);
+	ROWS
+};
+	dog *= x;
+	y *= Arya
+};
+	if(dog){
+	if(Ygritte){
+	Arya /= Ygritte;
+	if(foo(--bar(COLS,-30),( Stark ))){
+	if(-bar(( rule(( 1 + Arya ),COLS) )) - protect(foo(dog + ( TABLE[1][bar(TABLE[-Stark][( ( -800.03 ) )],foo()) + rule(dog,TABLE[-COLS - mislead(0.28) * ( TABLE[-( rule(y,-protect(y - ( Ygritte ))) )][bar(-0.76) - ( ( COLS ) ) - ( ROWS * TABLE[ROWS][-1] )] ) - COLS][foo(Jon,dog) / TABLE[-14][( -protect(protect(mislead(),COLS),580.798) )]])] / betray(dog,( Arya - Ygritte * ( ROWS ) )) )))){
+	if(ROWS * foo(0.67)){
+	Sansa /= -0.09;
+	Stark -= ( ROWS ) + mislead()
+} else {
+	x /= bar(destroy(COLS))
+}
+} else {
+	if(betray(mislead(-1,Hodor),Arya)){
+
+};
+	if(ROWS){
+	Arya -= foo(0.45,-0.14,24);
+	Ygritte -= mislead(-( -0.53 ),dog)
+} else {
+
+}
+};
+	( -6 );
+	if(--0.83){
+	1;
+	-COLS + COLS
+} else {
+	betray(protect(( x ) + bar(mislead(760.79),y,-0.44),TABLE[-bar(-99,Ygritte) * foo()][COLS])) + ( COLS - -0.55 * TABLE[protect(( -0.38 - ( ROWS ) ),y)][-500.2] );
+	Jon
+}
+}
+} else {
+	Ygritte
+}
+}
+}
+}
+} else {
+	-ROWS
+};
+	-1
+}
+def TABLE[0.9 * x - protect(( -Stark )) + --0.06][j] {
+	dog
+}
+def mislead(Sansa,x,Ygritte){
+	dog *= Stark;
+	x -= ( mislead(ROWS) );
+	Hodor
+}
+def TABLE[TABLE[-( bar() )][betray()] + betray(-x,-Arya - -51 - betray(-64))][k] {
+	if(( destroy() )){
+	Hodor /= -( rule(COLS / ---( ROWS )) )
+}
+}
+assert COLS : "One can not simply parse himself"
+def destroy(Arya,Ygritte,x){
+	x - 1 - -COLS;
+	if(-0.65 / -( -dog + -TABLE[dog + ROWS][protect()] + ( y ) ) * ( Arya + -Jon / -( Ygritte ) + betray(-Sansa,y) - dog / ( ( x ) ) ) * 1){
+	250.328
+}
+}
+var x = ROWS / TABLE[-destroy(ROWS,dog)][protect(mislead(-( ( TABLE[ROWS][74] ) ))) / -32] - ( rule(0.13,-Ygritte,-1) ) / TABLE[( ( destroy(bar(-1,protect(TABLE[-0.6][COLS * -COLS],foo(foo())),70),destroy(TABLE[-550.1 - -( ( -230.891 ) )][( --0.08 * destroy(-( Arya ) + dog) / dog * Ygritte )] * ---COLS)) ) )][ROWS]
+var Jon = Sansa - destroy(Jon)
+def TABLE[TABLE[Jon][-0.54]][i] {
+
+}
+def TABLE[-870.971][j] {
+	if(protect(rule(),( -( ( mislead() ) ) ),Hodor)){
+	if(ROWS){
+	if(-37){
+	Stark -= ( ( Arya / ( Stark ) ) );
+	ROWS;
+	if(bar(x - --protect(),betray(Stark))){
+	TABLE[0.71][0.23];
+	Jon -= bar(x,( destroy(x) ))
+}
+} else {
+	if(-0.26){
+	if(-95){
+	( betray(ROWS,-93,TABLE[y][ROWS]) ) / y;
+	--( mislead(Ygritte / ( foo(-53) )) ) / COLS;
+	if(bar(( -70 ))){
+	Ygritte
+} else {
+	if(destroy(--Ygritte / Sansa,7,( COLS ) - 1 / x)){
+	Stark += TABLE[Stark][Ygritte];
+	if(mislead(-protect(),1)){
+	Arya;
+	560.922;
+	1
+};
+	TABLE[bar(TABLE[bar(rule(530.6541),57)][y])][( protect() )]
+}
+}
+} else {
+	COLS
+};
+	Arya /= Arya
+} else {
+
+}
+};
+	-14;
+	Ygritte -= ( x )
+} else {
+
+};
+	if(Jon){
+	if(43){
+	if(0.24){
+	if(-Hodor){
+	rule() * 0.54;
+	-( destroy(Ygritte) ) * COLS - Ygritte - Arya
+}
+}
+};
+	850.66
+}
+} else {
+
+}
+}
+var dog = bar(protect(ROWS,Ygritte))
+var Sansa = protect(ROWS)
+def mislead(Sansa,y){
+	if(-TABLE[dog + bar(COLS,x)][destroy(COLS,bar(( -( -betray(destroy(( COLS )),( 10 - ( x * ( destroy(-mislead(foo(( mislead(TABLE[-0.42][-destroy(551,betray())],0.31,TABLE[bar(( -75 * bar(rule(mislead(-COLS,bar()),betray(1,( -1 ),bar(TABLE[-69][betray(-Ygritte - ( Arya - COLS ),--foo(-730.48,650.85 - ( TABLE[( Stark )][ROWS] ) - COLS))]) / ROWS),bar(mislead(( Arya * Sansa + 140.5 )) / Jon)),rule() / bar(dog)) ))][0.63]) )),rule(ROWS))) ) ) )) ) ),98),TABLE[protect(Arya)][TABLE[x][COLS / -30]])]){
+	if(foo(Jon,rule(protect(y,Ygritte,rule(x,--betray(( ( ( -86 - -0.29 ) ) ))))) - x,( ( -ROWS ) ))){
+	if(protect(foo(( -Hodor ),--Sansa - 1),-mislead(Hodor,ROWS),ROWS) + Jon){
+	dog -= -0.03;
+	-58;
+	if(Stark){
+	Sansa -= ( --26 );
+	( ( ---ROWS + ( -66 ) ) )
+} else {
+	if(Jon * ( ( bar(-1 * -( dog + 150.84 + Sansa * destroy(COLS,-1,( COLS )) ),destroy(ROWS,-COLS)) ) )){
+	-Ygritte
+} else {
+	protect(protect() * TABLE[--1][( 22 + dog )],83,( -COLS ));
+	0.05
+};
+	x;
+	Hodor -= 1
+}
+}
+};
+	protect(COLS,( rule(-1 - -Hodor) )) * ( COLS )
+} else {
+	-COLS;
+	Stark += ( -1 );
+	( 50 )
+}
+}
+assert -77 : "One can not simply parse himself"
+assert destroy(rule(--betray(Jon,destroy(-foo(foo(rule(( ROWS ),0.46,-290.3634) / COLS),--( ( -0.43 ) + Hodor ))),-1)),-880.49 - ( COLS ) / ( rule() )) / Jon : "Fear cuts deeper than swords."
+def TABLE[TABLE[-bar() * 17][-Hodor]][k] {
+	--ROWS
+}
+var dog = ( -0.67 )
+def foo(Ygritte,Stark){
+	if(ROWS + rule(-29,Jon) - ( bar(63,Hodor) ) / TABLE[Stark][---52]){
+	if(-88){
+	betray()
+} else {
+	bar(--500.1462,Stark);
+	if(36){
+	dog += rule() + bar(( --( ROWS ) ),-22) / ROWS - rule(96);
+	if(ROWS){
+
+} else {
+	dog -= COLS;
+	y *= dog
+};
+	bar(foo(foo()),( --99 ))
+} else {
+	Jon / COLS / --Sansa / -0.87 / Jon * TABLE[COLS][Stark];
+	rule(( ( ROWS ) ) + -73,( destroy(57) ))
+}
+};
+	if(-rule(-destroy(COLS),x)){
+	if(Stark){
+	TABLE[-( -1 - TABLE[ROWS * 73][TABLE[-( --Sansa ) - 63][--0.11 * dog]] )][-56] / destroy(( ( Hodor ) ) / TABLE[( Hodor )][mislead(Hodor + ( -0.82 ) + protect(( ROWS )),-0.6,( ( foo(Arya) ) ))],dog,-( ROWS ));
+	if(ROWS){
+	Arya /= rule(Ygritte,COLS);
+	if(( ( ROWS ) - Arya )){
+
+}
+}
+} else {
+	COLS;
+	-1000.928;
+	if(COLS){
+	42
+}
+};
+	-0.3
+} else {
+	y *= -destroy(( ( 0.96 ) ),rule())
+}
+} else {
+	if(Stark){
+	ROWS
+} else {
+	dog -= rule()
+};
+	if(0.78){
+	( bar(COLS) ) * Ygritte / bar(rule(Ygritte,-ROWS)) + ( ( x ) );
+	dog *= --mislead(-0.46);
+	Sansa -= bar(-0.92,mislead(TABLE[--rule() * ( -620.9 + -41 - COLS - dog )][-55]),( ROWS ))
+}
+};
+	Hodor *= ROWS;
+	if(( protect(-TABLE[----COLS * Stark][COLS] + -700.793,-TABLE[Arya][-ROWS / -betray(0.85 - 900.8)] / bar(( -0.01 ),foo(COLS,-x - -Arya)) / Hodor) )){
+	y;
+	Arya += ROWS * x + ( ( --( -Arya ) * -250.01 ) )
+} else {
+	Arya;
+	if(ROWS){
+	Ygritte *= 5
+}
+}
+}
+assert COLS : "One can not simply parse himself"
